@@ -8,7 +8,7 @@ I'm a 👨‍🎓 web developer with a year of experience building web applicati
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,git,nodejs,next,nest,mongodb,postgresql,figma,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,vite,react,git,nodejs,next,nest,mongodb,postgresql,figma,postman,github,gitlab,githubactions,vscode,vercel)](https://skillicons.dev)
 
 ## Certifications
 
