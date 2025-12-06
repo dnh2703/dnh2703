@@ -4,7 +4,7 @@
 
 ## About me
 
-I'm a 👨‍🎓 web developer with a year of experience building web applications. I specialize in using React, Express, and NodeJS to create smooth, user-friendly experiences. I am always eager to learn new things and take on fun challenges. Let's build something awesome together!
+I'm a 👨‍🎓 web developer with two years of experience building web applications. I specialize in using React, Express, and NodeJS to create smooth, user-friendly experiences. I am always eager to learn new things and take on fun challenges. Let's build something awesome together!
 
 ## Skills
 
