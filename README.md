@@ -4,7 +4,7 @@
 
 ## About me
 
-I'm a 👨‍🎓 web developer with two years of experience building web applications. I specialize in using React, Express, and NodeJS to create smooth, user-friendly experiences. I am always eager to learn new things and take on fun challenges. Let's build something awesome together!
+I'm a 👨‍🎓 web developer with three years of experience building web applications. I specialize in using React, Express, and NodeJS to create smooth, user-friendly experiences. I am always eager to learn new things and take on fun challenges. Let's build something awesome together!
 
 ## Skills
 
@@ -17,5 +17,6 @@ I'm a 👨‍🎓 web developer with two years of experience building web applic
 ## How to reach me
 
 - Email: dnh2703@gmail.com
+- Website: https://www.dnh2703.work/
 - LinkedIn: [dnh2703](https://www.linkedin.com/in/dnh2703/)
 - Facebook: [dnh2k](https://www.facebook.com/dnh2k/)
